@@ -46,7 +46,8 @@ To create an **Annual Sales Report for 2024** that helps:
 
 ## Dashboard Screenshot
 
-<img width="1675" height="646" alt="Screenshot 2026-04-05 123008" src="https://github.com/user-attachments/assets/3324f09d-e12d-4401-82f8-68574cf75b97" />
+<img width="1919" height="773" alt="image" src="https://github.com/user-attachments/assets/b659df50-6d3d-4217-8a31-3c9c04d79b23" />
+
 
 ---
 
